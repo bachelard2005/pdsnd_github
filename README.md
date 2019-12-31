@@ -20,5 +20,7 @@ Most common month, day and hour
 Most common start station, most common end station, most common trip
 #### question 3
 Number of each User type, number of users by gender in New-York, earliest common year of birth
+#### graph 1
+frequenties of travel by month
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
